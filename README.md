@@ -290,4 +290,4 @@ git push --follow-tags
 
 # Commercial support
 
-Checkout https://adorsys.com/en/products/keycloak-config-cli/ for commercial support.
+Checkout https://adorsys.com/en/products/keycloak-config-cli/ for commercial support..
